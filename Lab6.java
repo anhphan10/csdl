@@ -21,6 +21,9 @@ public class Lab6 {
  
         dbconnection db = new dbconnection();
         db.getConnect();
+        
+        System.out.println("Hello");
+        
     }
 
 }
